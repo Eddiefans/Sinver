@@ -1,0 +1,356 @@
+[
+  {
+    "nombreUsuario": "eddie3000",
+    "nombreCompleto": "jos\u00e9 eddie aguilar ceballos",
+    "edad": 20,
+    "genero": "Masculino",
+    "correo": "edaguilarce@gmail.comm",
+    "contrasena": "$2b$10$Uxp0g/WjsTezW3teIDHNtujY4sLTzlWf9KV1k5B1qMJh66SfN5v.2",
+    "valorCuentaActual": 93228.9975,
+    "cambioTotal": -6771.002500000002,
+    "poderAdquisitivo": 77075.9075,
+    "utilidadCompra": {
+      "tipo": "compra",
+      "valorInicial": 14693.342499999999,
+      "valorActual": 8536.09,
+      "cambioDia": 153.83,
+      "cambiopDia": 1.8351852602997283,
+      "cambioTotal": -6157.2525000000005,
+      "cambiopTotal": -41.90504985506192
+    },
+    "utilidadCorto": {
+      "tipo": "corto",
+      "valorInicial": 7003.25,
+      "valorActual": 7617.0,
+      "cambioDia": -144.5,
+      "cambiopDia": -1.8617535270244154,
+      "cambioTotal": -613.7500000000002,
+      "cambiopTotal": -8.763788241173744
+    },
+    "accionesCompra": [
+      {
+        "tipo": "compra",
+        "simbolo": "INDO",
+        "cantidad": 5,
+        "precioInicial": 22.5825,
+        "valorInicial": 112.9125,
+        "precioActual": 7.01,
+        "valorActual": 35.05,
+        "cambioDia": 2.15,
+        "cambiopDia": 6.53495441,
+        "cambioTotal": -77.8625,
+        "cambiopTotal": -68.95826414258829,
+        "fecha": "2022-03-25T13:26:43.083125"
+      },
+      {
+        "tipo": "compra",
+        "simbolo": "AGRI",
+        "cantidad": 5,
+        "precioInicial": 4.55,
+        "valorInicial": 22.75,
+        "precioActual": 1.16,
+        "valorActual": 5.8,
+        "cambioDia": 0,
+        "cambiopDia": 0,
+        "cambioTotal": -16.95,
+        "cambiopTotal": -74.5054945054945,
+        "fecha": "2022-03-25T13:27:50.757935"
+      },
+      {
+        "tipo": "compra",
+        "simbolo": "OXY",
+        "cantidad": 5,
+        "precioInicial": 58.63,
+        "valorInicial": 293.15000000000003,
+        "precioActual": 71.09,
+        "valorActual": 355.45000000000005,
+        "cambioDia": 1.3,
+        "cambiopDia": 0.3670761,
+        "cambioTotal": 62.300000000000004,
+        "cambiopTotal": 21.251918812894424,
+        "fecha": "2022-03-25T13:29:06.629322"
+      },
+      {
+        "tipo": "compra",
+        "simbolo": "CLVS",
+        "cantidad": 200,
+        "precioInicial": 2.1799,
+        "valorInicial": 435.98,
+        "precioActual": 1.04,
+        "valorActual": 208.0,
+        "cambioDia": 0,
+        "cambiopDia": 0,
+        "cambioTotal": -227.98,
+        "cambiopTotal": -52.29138951328043,
+        "fecha": "2022-04-22T13:35:24.184453"
+      },
+      {
+        "tipo": "compra",
+        "simbolo": "GOOG",
+        "cantidad": 3,
+        "precioInicial": 2207.35,
+        "valorInicial": 6622.049999999999,
+        "precioActual": 104.93,
+        "valorActual": 314.79,
+        "cambioDia": 5.88,
+        "cambiopDia": 1.90346703,
+        "cambioTotal": -6307.26,
+        "cambiopTotal": -95.24633610437856,
+        "fecha": "2022-05-12T13:13:05.914783"
+      },
+      {
+        "tipo": "compra",
+        "simbolo": "AAPL",
+        "cantidad": 50,
+        "precioInicial": 144.13,
+        "valorInicial": 7206.5,
+        "precioActual": 152.34,
+        "valorActual": 7617.0,
+        "cambioDia": 144.5,
+        "cambiopDia": 1.93375711,
+        "cambioTotal": 410.5000000000004,
+        "cambiopTotal": 5.696246444182341,
+        "fecha": "2022-05-13T08:48:25.242293"
+      }
+    ],
+    "accionesCorto": [
+      {
+        "tipo": "corto",
+        "simbolo": "AAPL",
+        "cantidad": 50,
+        "precioInicial": 140.065,
+        "valorInicial": 7003.25,
+        "precioActual": 152.34,
+        "valorActual": 7617.0,
+        "cambioDia": -144.5,
+        "cambiopDia": -1.93375711,
+        "cambioTotal": -613.7500000000002,
+        "cambiopTotal": -8.763788241173746,
+        "fecha": "2022-05-12T13:12:31.807749"
+      }
+    ],
+    "historial": [
+      {
+        "descripcion": "Compra de accion",
+        "simbolo": "INDO",
+        "cantidad": 5,
+        "precio": 22.5825,
+        "valorTotal": 112.9125,
+        "fecha": "2022-03-25T13:26:43.083125"
+      },
+      {
+        "descripcion": "Compra de accion",
+        "simbolo": "AGRI",
+        "cantidad": 5,
+        "precio": 4.55,
+        "valorTotal": 22.75,
+        "fecha": "2022-03-25T13:27:50.757935"
+      },
+      {
+        "descripcion": "Compra de accion",
+        "simbolo": "OXY",
+        "cantidad": 5,
+        "precio": 58.63,
+        "valorTotal": 293.15000000000003,
+        "fecha": "2022-03-25T13:29:06.629322"
+      },
+      {
+        "descripcion": "Compra de accion",
+        "simbolo": "CLVS",
+        "cantidad": 200,
+        "precio": 2.1799,
+        "valorTotal": 435.98,
+        "fecha": "2022-04-22T13:35:24.184453"
+      },
+      {
+        "descripcion": "Venta en corto",
+        "simbolo": "AAPL",
+        "cantidad": 50,
+        "precio": 140.065,
+        "valorTotal": 7003.25,
+        "fecha": "2022-05-12T13:12:31.807749"
+      },
+      {
+        "descripcion": "Compra de accion",
+        "simbolo": "GOOG",
+        "cantidad": 3,
+        "precio": 2207.35,
+        "valorTotal": 6622.049999999999,
+        "fecha": "2022-05-12T13:13:05.914783"
+      },
+      {
+        "descripcion": "Compra de accion",
+        "simbolo": "AAPL",
+        "cantidad": 50,
+        "precio": 144.13,
+        "valorTotal": 7206.5,
+        "fecha": "2022-05-13T08:48:25.242293"
+      }
+    ]
+  },
+  {
+    "nombreUsuario": "maxhernan",
+    "nombreCompleto": "Maximiliano Hernandez Aparicio",
+    "edad": 19,
+    "genero": "Masculino",
+    "correo": "maxherna@iteso.mx",
+    "contrasena": "$2b$10$mvwMlCfrWVexL1eoB6hwOuiCbybECPv6USRseRSRdNAOVp2Us4LkK",
+    "valorCuentaActual": 100185.09999999999,
+    "cambioTotal": 185.09999999999127,
+    "poderAdquisitivo": 81119.37999999999,
+    "utilidadCompra": {
+      "tipo": "compra",
+      "valorInicial": 14542.8,
+      "valorActual": 14788.5,
+      "cambioDia": -353.0,
+      "cambiopDia": -2.3313410164118484,
+      "cambioTotal": 245.69999999999993,
+      "cambiopTotal": 1.6894958329895202
+    },
+    "utilidadCorto": {
+      "tipo": "corto",
+      "valorInicial": 4216.62,
+      "valorActual": 4277.22,
+      "cambioDia": -62.34,
+      "cambiopDia": -1.4365511710864696,
+      "cambioTotal": -60.600000000000364,
+      "cambiopTotal": -1.437170055636988
+    },
+    "accionesCompra": [
+      {
+        "tipo": "compra",
+        "simbolo": "MSFT",
+        "cantidad": 30,
+        "precioInicial": 250.76,
+        "valorInicial": 7522.799999999999,
+        "precioActual": 255.35,
+        "valorActual": 7660.5,
+        "cambioDia": -156.0,
+        "cambiopDia": -1.99577816,
+        "cambioTotal": 137.7000000000001,
+        "cambiopTotal": 1.8304354761524977,
+        "fecha": "2022-05-12T13:17:49.722231"
+      },
+      {
+        "tipo": "compra",
+        "simbolo": "AAPL",
+        "cantidad": 50,
+        "precioInicial": 140.4,
+        "valorInicial": 7020.0,
+        "precioActual": 142.56,
+        "valorActual": 7128.0,
+        "cambioDia": -197.0,
+        "cambiopDia": -2.6894198,
+        "cambioTotal": 107.99999999999983,
+        "cambiopTotal": 1.5384615384615359,
+        "fecha": "2022-05-12T13:18:35.173926"
+      }
+    ],
+    "accionesCorto": [
+      {
+        "tipo": "corto",
+        "simbolo": "AMZN",
+        "cantidad": 2,
+        "precioInicial": 2108.31,
+        "valorInicial": 4216.62,
+        "precioActual": 2138.61,
+        "valorActual": 4277.22,
+        "cambioDia": -62.34,
+        "cambiopDia": -1.47904567,
+        "cambioTotal": -60.600000000000364,
+        "cambiopTotal": -1.437170055636988,
+        "fecha": "2022-05-12T13:18:53.815803"
+      }
+    ],
+    "historial": [
+      {
+        "descripcion": "Compra de accion",
+        "simbolo": "MSFT",
+        "cantidad": 30,
+        "precio": 250.76,
+        "valorTotal": 7522.799999999999,
+        "fecha": "2022-05-12T13:17:49.722231"
+      },
+      {
+        "descripcion": "Compra de accion",
+        "simbolo": "AAPL",
+        "cantidad": 50,
+        "precio": 140.4,
+        "valorTotal": 7020.0,
+        "fecha": "2022-05-12T13:18:35.173926"
+      },
+      {
+        "descripcion": "Venta en corto",
+        "simbolo": "AMZN",
+        "cantidad": 2,
+        "precio": 2108.31,
+        "valorTotal": 4216.62,
+        "fecha": "2022-05-12T13:18:53.815803"
+      }
+    ]
+  },
+  {
+    "nombreUsuario": "eddie123",
+    "nombreCompleto": "Eddie Aguilar",
+    "edad": 20,
+    "genero": "Masculino",
+    "correo": "edaguilarce@gmail.com",
+    "contrasena": "$2b$10$BTkkD3DrDf5M1Ogl8NnJPOjBqUgnGNQsh837FUul5bEdzjFK0vchW",
+    "valorCuentaActual": 100000,
+    "cambioTotal": 0,
+    "poderAdquisitivo": 100000,
+    "utilidadCompra": {
+      "tipo": "compra",
+      "valorInicial": 0,
+      "valorActual": 0,
+      "cambioDia": 0,
+      "cambiopDia": 0,
+      "cambioTotal": 0,
+      "cambiopTotal": 0
+    },
+    "utilidadCorto": {
+      "tipo": "corto",
+      "valorInicial": 0,
+      "valorActual": 0,
+      "cambioDia": 0,
+      "cambiopDia": 0,
+      "cambioTotal": 0,
+      "cambiopTotal": 0
+    },
+    "accionesCompra": [],
+    "accionesCorto": [],
+    "historial": []
+  },
+  {
+    "nombreUsuario": "eddieagag",
+    "nombreCompleto": "Jos\u00e9 Eddie Aguilar Ceballos",
+    "edad": 18,
+    "genero": "Masculino",
+    "correo": "edaguilar@gmail.com",
+    "contrasena": "$2b$10$RicqkoAqYAuK055gG0bEtOeMu.f29FkCair7FsKQ.6eIyGoiElqM.",
+    "valorCuentaActual": 100000,
+    "cambioTotal": 0,
+    "poderAdquisitivo": 0,
+    "utilidadCompra": {
+      "tipo": "compra",
+      "valorInicial": 0,
+      "valorActual": 0,
+      "cambioDia": 0,
+      "cambiopDia": 0,
+      "cambioTotal": 0,
+      "cambiopTotal": 0
+    },
+    "utilidadCorto": {
+      "tipo": "corto",
+      "valorInicial": 0,
+      "valorActual": 0,
+      "cambioDia": 0,
+      "cambiopDia": 0,
+      "cambioTotal": 0,
+      "cambiopTotal": 0
+    },
+    "accionesCompra": [],
+    "accionesCorto": [],
+    "historial": []
+  }
+]
